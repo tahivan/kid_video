@@ -1,0 +1,18 @@
+.tg-importer-wrap {
+   padding: 20px 400px 0 20px;
+}
+.tg-importer-wrap .narrow {
+   margin-top: 40px;
+}
+.alert {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #ffffff;
+    color: #000000;
+}
+.alert-warning {
+   border-left: 4px solid #E83F4C;
+}
+.alert-info {
+   border-left: 4px solid #7ad03a;
+}

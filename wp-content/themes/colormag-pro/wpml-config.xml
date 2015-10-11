@@ -1,0 +1,9 @@
+<wpml-config>
+   <admin-texts>
+      <key name="theme_mods_colormag-pro">
+         <key name="colormag_logo"/>
+         <key name="colormag_favicon_upload"/>
+         <key name="colormag_footer_editor"/>
+      </key>
+   </admin-texts>
+</wpml-config>
