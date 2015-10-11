@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'kidvideo_kids');
+define('DB_NAME', 'kidvideo_tv');
 
 /** MySQL database username */
-define('DB_USER', 'kidvideo_kids');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '!04P9(DPST');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
